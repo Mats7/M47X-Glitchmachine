@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Parameters>
+  <Gain Enabled="1.0" Value="3.0"/>
+  <Pitch Enabled="0.0" Value="1.0"/>
+  <LPF Enabled="0.0" Cutoff="2001.0" Q="1.0"/>
+  <HPF Enabled="0.0" Cutoff="201.0" Q="1.0"/>
+  <BPF Enabled="0.0" Cutoff="671.0" Q="1.0"/>
+  <Reverb Enabled="0.0" Balance="0.5" Size="0.5" Width="0.5" Damp="0.5"/>
+  <SCD Enabled="0.0" Threshold="0.5"/>
+  <HCD Enabled="1.0" Threshold="0.5"/>
+  <FRD Enabled="0.0"/>
+  <HRD Enabled="0.0"/>
+  <Extractor Enabled="0.0" Intensity="0.0" Width="0.0"/>
+  <Reverz Enabled="0.0" Skew="0.0" Amount="16.0"/>
+  <Stutter Enabled="0.0" Amount="16.0" Chorus="0.0" Delay="50.0"/>
+  <Shifter Enabled="0.0" Amount="16.0" Tone="2.0"/>
+</Parameters>

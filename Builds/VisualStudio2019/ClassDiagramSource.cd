@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="DistortionProcessor" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEEAAAIAABIAAAIAAEAAMQAAAAAAIAAAAAAgFAAgA=</HashCode>
+      <FileName>D:\vutfit\bp\M47X - GM\Source\DistortionProcessor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtractorProcessor" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAQAIAAAAAAAAAgAQAFAIBAKAAAEAAAAAgEAAgA=</HashCode>
+      <FileName>D:\vutfit\bp\M47X - GM\Source\ExtractorProcessor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FFTProcessor" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAQEAAAAEACkAAAAAAAAAIAAEBIAAAAAA=</HashCode>
+      <FileName>D:\vutfit\bp\M47X - GM\Source\FFTProcessor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterProcessor" Collapsed="true">
+    <Position X="8.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>wgECQBVAoAAAAEAAJIIAMAVggQRAAgEwAQAwQwFQITE=</HashCode>
+      <FileName>D:\vutfit\bp\M47X - GM\Source\FilterProcessor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GainProcessor" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAIAAAAAAAAAAIAAEAAAAAAECAAAAAAgEQAAA=</HashCode>
+      <FileName>D:\vutfit\bp\M47X - GM\Source\GainProcessor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainComponent" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="MainComponent::fftVariables" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>D:\vutfit\bp\M47X - GM\Source\MainComponent.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="MainComponent::RadioButtonIDs" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>D:\vutfit\bp\M47X - GM\Source\MainComponent.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="MainComponent::TransportState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>D:\vutfit\bp\M47X - GM\Source\MainComponent.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>z9tGj4b3rOaWx9f9U7VuOuLyyI11zfrfE3e/rtGTS/w=</HashCode>
+      <FileName>D:\vutfit\bp\M47X - GM\Source\MainComponent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PitchProcessor" Collapsed="true">
+    <Position X="3.5" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAIAABAAAAAAAAAAEAAAAABgAAAAAAAgEAIAA=</HashCode>
+      <FileName>D:\vutfit\bp\M47X - GM\Source\PitchProcessor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReverbProcessor" Collapsed="true">
+    <Position X="3.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAIAACAAAAAAAAASEAAAIAAAAAgAAAAgEAAAA=</HashCode>
+      <FileName>D:\vutfit\bp\M47X - GM\Source\ReverbProcessor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReverzProcessor" Collapsed="true">
+    <Position X="3.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAABAAJAACAAAAACAAAAEAIAAAAAAAAAAAAgEgAgE=</HashCode>
+      <FileName>D:\vutfit\bp\M47X - GM\Source\ReverzProcessor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShifterProcessor" Collapsed="true">
+    <Position X="8.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAJAAAABAAAAAAAAEKIAAAAABAAAAAAgEAEgA=</HashCode>
+      <FileName>D:\vutfit\bp\M47X - GM\Source\ShifterProcessor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StutterProcessor" Collapsed="true">
+    <Position X="8.5" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAA4AAAAgAAAAAAAEECMCAAAABAAAAAAgEAAgA=</HashCode>
+      <FileName>D:\vutfit\bp\M47X - GM\Source\StutterProcessor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomSlider" Collapsed="true">
+    <Position X="8.5" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAQAAAAIAAAAAAAAAEAAAA=</HashCode>
+      <FileName>D:\vutfit\bp\M47X - GM\Source\CustomSlider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomLookAndFeel" Collapsed="true">
+    <Position X="3.5" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAgABAAABAAAAgAAAAA=</HashCode>
+      <FileName>D:\vutfit\bp\M47X - GM\Source\CustomLookAndFeel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Application" Collapsed="true">
+    <Position X="6" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAABACAAAFAAEgAAAABAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\vutfit\bp\M47X - GM\Source\Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
